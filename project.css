@@ -147,6 +147,14 @@
     height: 30px;
 }
 
+
+.imagess:hover {
+  -ms-transform: scale(1.10); /* IE 9 */
+  -webkit-transform: scale(1.10); /* Safari 3-8 */
+  transform: scale(1.10); 
+}
+
+
 #d2{
   height:50px;
   border-radius:13px;
